@@ -1,2 +1,5 @@
 # Peyton Henrichs-Bowe
-hobbies are programming, game modding, etc
+## hobbies 
+1. programming, 
+2. game modding,
+3. etc
