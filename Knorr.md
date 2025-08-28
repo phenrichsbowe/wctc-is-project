@@ -1,5 +1,7 @@
 # Whats Up Guys & Gal!
 
+# what is up
+
 ## My name is Brandon Knorr.
 
 ### I am super excited to be working on this project as a former nursing major and healthcare worker!
