@@ -1,1 +1,4 @@
-Emilee Montijo - Playing video games and crafting - abcdef
+# Emilee Montijo
+1. Playing video games
+2. crafting
+3. abcdef
